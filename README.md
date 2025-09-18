@@ -1,13 +1,13 @@
 # solidity-smart-contracts
 A collection of simple Solidity smart contracts I built while learning (ERC-20, ERC-721, and a Voting dApp).
 
-Welcome 👋  
+Welcome   
 This repo contains some of my practice projects as I learn and grow as a Solidity developer.  
 I (skutii) use this space to explore different aspects of smart contracts and Web3 development.  
 
 ---
 
-## 📂 Contracts Included
+##  Contracts Included
 - **ERC-20 Token**  
   A basic fungible token with mint and burn functions.  
 - **ERC-721 NFT**  
@@ -17,7 +17,7 @@ I (skutii) use this space to explore different aspects of smart contracts and We
 
 ---
 
-## 🛠 Tools & Frameworks
+##  Tools & Frameworks
 - **Solidity** (0.8.x)  
 - **Remix IDE** (for writing & testing contracts)  
 - **MetaMask** + **Sepolia Testnet** (for deployment)  
@@ -25,7 +25,7 @@ I (skutii) use this space to explore different aspects of smart contracts and We
 
 ---
 
-## 🚀 How I Practice
+##  How I Practice
 - Write contracts in Solidity.  
 - Test them on Remix using Sepolia Testnet.  
 - Deploy small upgrades and improvements over time.  
@@ -33,7 +33,7 @@ I (skutii) use this space to explore different aspects of smart contracts and We
 
 ---
 
-## ✅ Next Steps
+##  Next Steps
 - Experiment with Hardhat and Truffle.  
 - Build a dApp frontend that interacts with these contracts.  
 - Expand this repo into a full blockchain portfolio.  
